@@ -1,0 +1,27 @@
+/* #4d84fe */
+/* #4522f5 */
+/* #7c87fa */
+/* #5158fd     #f0cc05         #f0e206 */
+
+
+
+
+#nvb{
+    background-color: #5158fd  ;
+    height: 85px;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 18.5rem;
+    color: #f0e206;
+}
+
+#inp{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+.di{
+    display: flex;
+    margin-left: 185px;
+}
